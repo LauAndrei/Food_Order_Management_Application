@@ -1,0 +1,10 @@
+Order: 2
+Ordered at:2022-05-13
+ Ordered by: 1
+id=1, title='Fresh Corn Tortillas ', rating=3.75, calories=23.0, proteins=1.0, fats=2.0, sodium=61.0, price=79.0
+
+id=7, title='Cilantro-Tomato Salsa ', rating=3.75, calories=23.0, proteins=1.0, fats=0.0, sodium=7.0, price=32.0
+
+id=10, title='The Original Three-Ingredient Rub ', rating=0.0, calories=23.0, proteins=1.0, fats=1.0, sodium=6.0, price=47.0
+
+158.0

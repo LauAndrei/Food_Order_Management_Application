@@ -1,0 +1,10 @@
+Order: 1
+Ordered at:2022-05-13
+ Ordered by: 1
+id=1, title='Fresh Corn Tortillas ', rating=3.75, calories=23.0, proteins=1.0, fats=2.0, sodium=61.0, price=79.0
+
+id=2, title='Quick & Spicy Asian Pickles ', rating=5.0, calories=23.0, proteins=1.0, fats=0.0, sodium=128.0, price=48.0
+
+id=3, title='Spicy Pickled Shallots ', rating=0.0, calories=23.0, proteins=1.0, fats=0.0, sodium=162.0, price=78.0
+
+205.0
